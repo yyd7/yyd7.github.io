@@ -1,3 +1,3 @@
 @echo off
-CloudflareST.exe -sl 5 -dn 10
+CloudflareST.exe -sl 2 -dn 20
 pause
